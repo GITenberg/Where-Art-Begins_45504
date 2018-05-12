@@ -1,0 +1,35 @@
+_repo: Where-Art-Begins_45504
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45504-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Nisbet, Hume
+    alias: Nisbet, James Hume
+    birthdate: 1849
+    deathdate: 1923
+    gutenberg_agent_id: '43320'
+    url: http://www.gutenberg.org/2009/agents/43320
+    wikipedia: https://en.wikipedia.org/wiki/Hume_Nisbet
+description: ''
+gutenberg_issued: '2014-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45504'
+  lccn: '04007660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art'
+tableOfContents: 'Introduction -- A word before -- Where art begins -- A study in
+  light and shadow -- The primaries: yellow, red, and blue -- Art and its relationship
+  to everyday life -- On picture lighting -- Ships: ancient and modern -- Illustrative
+  art: past and present -- Art in minor directions -- Dress and decoration -- Some
+  of the old masters -- The sacred and the comic sides of art -- On various subjects
+  connected with art -- Nature worship.'
+title: Where Art Begins
+url: http://www.gutenberg.org/ebooks/45504
