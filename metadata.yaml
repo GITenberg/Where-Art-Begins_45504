@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43320
     wikipedia: https://en.wikipedia.org/wiki/Hume_Nisbet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45504#Where-Art-Begins
 gutenberg_issued: '2014-04-26'
 gutenberg_type: Text
 identifiers:
